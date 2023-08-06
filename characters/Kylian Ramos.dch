@@ -1,0 +1,523 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "Month1/1",
+"description": "",
+"display_name": "Kylian",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"Month1/1": {
+"image": "res://assets/Sprites/Month1/1.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/10": {
+"image": "res://assets/Sprites/Month1/10.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/11": {
+"image": "res://assets/Sprites/Month1/11.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/12": {
+"image": "res://assets/Sprites/Month1/12.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/13": {
+"image": "res://assets/Sprites/Month1/13.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/14": {
+"image": "res://assets/Sprites/Month1/14.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/15": {
+"image": "res://assets/Sprites/Month1/15.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/2": {
+"image": "res://assets/Sprites/Month1/2.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/3": {
+"image": "res://assets/Sprites/Month1/3.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/4": {
+"image": "res://assets/Sprites/Month1/4.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/5": {
+"image": "res://assets/Sprites/Month1/5.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/6": {
+"image": "res://assets/Sprites/Month1/6.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/7": {
+"image": "res://assets/Sprites/Month1/7.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/8": {
+"image": "res://assets/Sprites/Month1/8.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month1/9": {
+"image": "res://assets/Sprites/Month1/9.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/1": {
+"image": "res://assets/Sprites/Month2/1.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/10": {
+"image": "res://assets/Sprites/Month2/10.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/11": {
+"image": "res://assets/Sprites/Month2/11.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/12": {
+"image": "res://assets/Sprites/Month2/12.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/13": {
+"image": "res://assets/Sprites/Month2/13.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/14": {
+"image": "res://assets/Sprites/Month2/14.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/15": {
+"image": "res://assets/Sprites/Month2/15.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/2": {
+"image": "res://assets/Sprites/Month2/2.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/3": {
+"image": "res://assets/Sprites/Month2/3.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/4": {
+"image": "res://assets/Sprites/Month2/4.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/5": {
+"image": "res://assets/Sprites/Month2/5.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/6": {
+"image": "res://assets/Sprites/Month2/6.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/7": {
+"image": "res://assets/Sprites/Month2/7.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/8": {
+"image": "res://assets/Sprites/Month2/8.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month2/9": {
+"image": "res://assets/Sprites/Month2/9.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/1": {
+"image": "res://assets/Sprites/Month3/1.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/10": {
+"image": "res://assets/Sprites/Month3/10.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/11": {
+"image": "res://assets/Sprites/Month3/11.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/12": {
+"image": "res://assets/Sprites/Month3/12.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/13": {
+"image": "res://assets/Sprites/Month3/13.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/14": {
+"image": "res://assets/Sprites/Month3/14.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/15": {
+"image": "res://assets/Sprites/Month3/15.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/2": {
+"image": "res://assets/Sprites/Month3/2.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/3": {
+"image": "res://assets/Sprites/Month3/3.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/4": {
+"image": "res://assets/Sprites/Month3/4.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/5": {
+"image": "res://assets/Sprites/Month3/5.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/6": {
+"image": "res://assets/Sprites/Month3/6.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/7": {
+"image": "res://assets/Sprites/Month3/7.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/8": {
+"image": "res://assets/Sprites/Month3/8.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month3/9": {
+"image": "res://assets/Sprites/Month3/9.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/1": {
+"image": "res://assets/Sprites/Month4/1.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/10": {
+"image": "res://assets/Sprites/Month4/10.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/11": {
+"image": "res://assets/Sprites/Month4/11.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/12": {
+"image": "res://assets/Sprites/Month4/12.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/13": {
+"image": "res://assets/Sprites/Month4/13.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/14": {
+"image": "res://assets/Sprites/Month4/14.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/15": {
+"image": "res://assets/Sprites/Month4/15.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/16-delirious": {
+"image": "res://assets/Sprites/Month4/16-delirious.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/17-delirious": {
+"image": "res://assets/Sprites/Month4/17-delirious.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/18-badend": {
+"image": "res://assets/Sprites/Month4/18-badend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/19-badend": {
+"image": "res://assets/Sprites/Month4/19-badend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/2": {
+"image": "res://assets/Sprites/Month4/2.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/20-badend": {
+"image": "res://assets/Sprites/Month4/20-badend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/21-trueend": {
+"image": "res://assets/Sprites/Month4/21-trueend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/22-trueend": {
+"image": "res://assets/Sprites/Month4/22-trueend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/23-trueend": {
+"image": "res://assets/Sprites/Month4/23-trueend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/24-trueend": {
+"image": "res://assets/Sprites/Month4/24-trueend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/25-trueend": {
+"image": "res://assets/Sprites/Month4/25-trueend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/26-trueend": {
+"image": "res://assets/Sprites/Month4/26-trueend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/27-trueend": {
+"image": "res://assets/Sprites/Month4/27-trueend.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/3": {
+"image": "res://assets/Sprites/Month4/3.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/4": {
+"image": "res://assets/Sprites/Month4/4.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/5": {
+"image": "res://assets/Sprites/Month4/5.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/6": {
+"image": "res://assets/Sprites/Month4/6.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/7": {
+"image": "res://assets/Sprites/Month4/7.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/8": {
+"image": "res://assets/Sprites/Month4/8.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Month4/9": {
+"image": "res://assets/Sprites/Month4/9.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}

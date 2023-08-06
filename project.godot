@@ -11,12 +11,39 @@ config_version=5
 [application]
 
 config/name="Out Of Time"
+run/main_scene="res://ui/main_menu.tscn"
 config/features=PackedStringArray("4.1", "GL Compatibility")
-config/icon="res://assets/sprites/icon.svg"
+config/icon="res://assets/icon.svg"
 
 [autoload]
 
 Dialogic="*res://addons/dialogic/Other/DialogicGameHandler.gd"
+
+[dialogic]
+
+glossary/default_case_sensitive=true
+layout/mode=0
+variables={
+"good_choice": "0"
+}
+animations/join_default_length=0.5
+animations/leave_default_length=0.5
+animations/leave_default_wait=true
+animations/join_default_wait=true
+choices/autofocus_first=true
+choices/delay=0.2
+choices/reveal_delay=1.0
+choices/reveal_by_input=false
+save/autosave_delay=60.0
+settings/text_speed=0.01
+text/skippable=true
+text/skippable_delay=0.1
+text/autoadvance_delay=1.0
+text/hide_empty_textbox=true
+text/autopauses={}
+layout/export_overrides={
+"next_indicator_animation": "2"
+}
 
 [editor_plugins]
 

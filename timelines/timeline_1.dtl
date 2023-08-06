@@ -1,0 +1,99 @@
+“This isn't fair.”
+“I feel so stupid.”
+“This isn't supposed to happen...”
+“... To people like me...!"
+[call_node path="Game" method="flashback" single_use="true"]
+[background arg="res://assets/Backgrounds/bg1.png" fade="5.0"]
+[wait time="5.0"]
+I suppose my life has been pretty uneventful so far.
+My name is Asher Iona. I'm a sophomore in high school, and I'm pretty bad at introductions, honestly.
+I guess that I like things that most teenage boys like.
+I like playing video games with my friends and collecting cool (but expensive) figures.
+I'm not very good at sitting still, and I lose control over my voice a lot of the time.
+I have trouble reading the room.
+I say the wrong thing, a lot.
+I think a lot of people don't like me for that.
+I guess it must be pretty annoying...
+Friends come and go.
+Except for one.
+I guess Kylian and I started as a friendship of convenience.
+Our moms were friends and co-workers, so they worked on projects together a lot.
+So, we were left alone equally as much.
+I guess we sort of grew around each other.
+Filled what the other lacked.
+I had to look out for him physically.
+He was always on the weaker side.
+Always staying home from school. Constant asthma attacks.
+It always made him look frailer than he really was.
+Kylian Ramos is one of the most strong and passionate people that I know.
+[wait time="1.0" hide_text="false"]
+I stand by that, even while I watch him grit his teeth to hold back tears in the empty pews of our town's church.
+Join "Kylian Ramos" 0 [ mirrored="true"]
+"Kylian Ramos": ”I can't–I still can't believe it.“
+"Kylian Ramos": ”One Christmas happens in a year. One Valentine's Day. One Carnaval...“
+"Kylian Ramos": ”But, next year...“
+"Kylian Ramos": ”I may not be here anymore.“
+Leave "Kylian Ramos"
+I'm still in shock myself.
+I sat with my knees pulled up to my chest like a child. I couldn't feel the tips of my fingers.
+I keep taking a breath to speak, then letting it out, without saying anything.
+I feel the need to comfort Kylian, more than anything, but where do I even start?
+He seems to be filling the dead air just fine on his own, though.
+Join "Kylian Ramos" 0 [ mirrored="true"]
+"Kylian Ramos": "And my parents–they're just-”
+"Kylian Ramos": “They change the subject whenever I try to talk about any of the–of the things that the doctor suggested.”
+"Kylian Ramos": “Of course, I believe in God’s ability to heal those who deserve it. I know that He will help me, with time.”
+"Kylian Ramos": “But...some pain relief medication would be nice...at least...”
+Leave "Kylian Ramos"
+Terminal lung cancer isn’t something that you tend to hear of being healed by God’s will.
+Kylian, as of this year, had been taking more and more days off of school.
+He had begun to talk to me about his preoccupation with trying to find out what was ”wrong“ with him more and more often.
+But lung cancer isn't something that you go into a doctor's appointment, expecting to be diagnosed with.
+'That sort of thing happens to other people.'
+'Not to me.'
+'Not to my best friend.'
+Suddenly, Kylian stands up, pushing his hands through his hair and huffing loudly.
+He walks briskly up the small set of steps, then grabs a dust cloth from off of the church organ's surface, and starts rubbing it down furiously.
+Seemingly just to get his frustration out. To do something with his hands.
+Still, I stand up from where I was sitting as well, hanging back next to the pews.
+The cleaning works pretty well. He steps back after a few seconds and puts the rag back onto the organ, satiated.
+He must've felt my eyes on his back, because he walks so that he is standing next to me, looking at the organ from where I was sitting.
+He smiles.
+Join "Kylian Ramos" 0 [ mirrored="true"]
+"Kylian Ramos": “It's gorgeous, isn't it?”
+"Asher Iona": “...Yeah.”
+Leave "Kylian Ramos"
+His church is on the smaller side, and the pipe organ that it boasts is easily the centerpiece of it all.
+It's old and worn from the decades of use it had, even before Kylian became the one who got to play it at most services.
+I'm not even particularly religious, honestly. But sometimes, I come to church, just to be the one who turns the pages of the sheet music for him.
+Just to listen to him play.
+It's almost comical. To watch such a small, frail boy play such a commanding sound. Demanding your respect.
+I like that.
+I think that Kylian likes that, too.
+He places a hand on the keyboard cover. He's smiling, still, but it's bittersweet now.
+I get the feeling that I should say something. Break the tension.
+- “Have you finished your studies?”
+	Join "Kylian Ramos" 0 [ mirrored="true"]
+	"Kylian Ramos": “SH-SHOOT!! No! No, I haven't!!”
+	"Kylian Ramos": “Gosh, I was supposed to finish those tonight! I only have a few hours left!“
+	Kylian is already rushing out the door as he speaks.
+	"Kylian Ramos": “Thank you so much for listening and for reminding me, you're the best, see you at school tomorrow, BYE!”
+	Leave "Kylian Ramos"
+	And he was off.
+	I stood in the empty church, in shock. I couldn't even get a word in before he had left.
+	...
+	At school tomorrow?
+- “Have you eaten?“
+	VAR {good_choice} += 1
+	"Asher Iona": “We could go to that family diner that you like.”
+	Join "Kylian Ramos" 0 [ mirrored="true"]
+	"Kylian Ramos": “Oh!! The burger place??”
+	"Asher Iona": “Yeah!!”
+	"Kylian Ramos": “YES! That'd be perfect!!”
+	"Kylian Ramos": “But...Could you bring the food to the church? I'll wait here.”
+	He trotted back up the steps, and began to absentmindedly clean the organ again.
+	"Kylian Ramos": “After all, I need to save up my energy for school tomorrow!”
+	Leave "Kylian Ramos"
+	...Wait.
+	"Asher Iona": “...School…tomorrow?”
+[jump timeline="timeline_2"]

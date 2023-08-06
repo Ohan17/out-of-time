@@ -1,0 +1,30 @@
+[wait time="2.0"]
+(Another month passed away)
+Kylian isn't supposed to be going out anymore.
+He's officially dropped out of school. He's not allowed to go to church on Sundays.
+I visit him a lot, even though it's kind of hard. Seeing him bedridden.
+I wonder if his parents are distancing themselves so that it hurts less. All of this.
+I can't help but be upset at them for that, even though I know it's not my place to be.
+They'll–we'll–have a lifetime to process what is happening to Kylian.
+But Kylian doesn't have that luxury.
+His last memories of his parents are going to be them keeping him at arm's length when he needs him most.
+Stuck in bed. Sicker than ever. Not allowed to leave.
+Not allowed to leave...so...
+So then...
+"Asher Iona": “Why are you here??”
+"Kylian Ramos": ”Ash!! Oh, thank goodness.”
+He hasn't called me Ash since we were in elementary.
+"Kylian Ramos": “Heaven's gates are opening for me.”
+"Kylian Ramos": “I've seen them. Talked to my auntie.”
+"Kylian Ramos": “But I still have something to do here.”
+He still has something–?
+...The organ.
+It's opened up again, and there are all sorts of tools all over the floor, next to his feet.
+Contact cleaner, pliers, wire cutters...
+Kylian isn't supposed to be handling anything like this right now. Especially not in his current state.
+I know better than to 'correct' Kylian on what he sees during his delirious episodes, though.
+I put my hands on his shoulders, trying to guide him away from the organ.
+if {good_choice} >= 2:
+	[jump timeline="good_end"]
+else:
+	[jump timeline="bad_end"]

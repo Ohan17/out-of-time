@@ -26,3 +26,7 @@ func _on_textbox_new_text():
 	Dialogic.Animation.start_animating()
 	play("new_text")
 	animation_finished.connect(Dialogic.Animation.animation_finished, CONNECT_ONE_SHOT)
+
+
+func disconnect_new_text_animation() -> void:
+	Dialogic.Text.animation_textbox_new_text.disconnect(_on_textbox_new_text)

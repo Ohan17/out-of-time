@@ -304,6 +304,7 @@ mouse_filter = 2
 script = ExtResource("12")
 
 [node name="Animations" type="AnimationPlayer" parent="DefaultStyle"]
+unique_name_in_owner = true
 autoplay = "RESET"
 libraries = {
 "": SubResource("AnimationLibrary_c14kh")
