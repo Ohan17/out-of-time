@@ -1,5 +1,4 @@
 [wait time="2.0"]
-(A few more months passed)
 Kylian is coming to school less these days.
 His headaches are getting worse and worse. He used to be able to insist he could power through them, but nowadays, his eyes start watering from the pain when he gets them.
 I hardly see him eat at all anymore.
@@ -9,13 +8,15 @@ I suspect that it's mostly because, if he stops going to school, he'll likely st
 And he is as dedicated to restoring that organ as anything.
 Even more so than that time he spent a solid half a year dedicated to learning all about dolphins.
 I voiced as much when I was helping him try his next angle with fixing the organ's sound.
-"Kylian Ramos": “Oh, gosh, don't remind me of my dolphin phase...”
+Join "Kylian Ramos" 2
+"Kylian Ramos" (Month3/3): “Oh, gosh, don't remind me of my dolphin phase...”
 "Asher Iona": “It was cool!”
-"Kylian Ramos": “I know that.”
-"Kylian Ramos": “I meant, 'Don't get me started on dolphin facts again, I'll get distracted.'”
+"Kylian Ramos" (Month3/15): “I know that.”
+"Kylian Ramos" (Month3/3): “I meant, 'Don't get me started on dolphin facts again, I'll get distracted.'”
 "Asher Iona": “Oh! Right! Sorry.”
-"Kylian Ramos": “Next electrolytic capacitor?”
+"Kylian Ramos" (Month3/8): “Next electrolytic capacitor?”
 "Asher Iona": “Right.”
+Leave "Kylian Ramos"
 I hand over the next battery-like component to Kylian from where I sat.
 He's been needing my help with repairs more and more lately, growing too physically weak to manage on his own.
 I don't mind, though.
@@ -23,31 +24,38 @@ I like watching him get passionate about things.
 What he was doing currently was too out of my range to understand. Even the things involved sounded complicated.
 Kylian had to get into the organ's circuit board for this part of the process.
 While he technically only needed to repair a small handful of keys, he was set on replacing all of them, while he was at it.
-"Kylian Ramos": “Okay...that should be it!”
+Join "Kylian Ramos" 2
+"Kylian Ramos" (Month3/4): “Okay...that should be it!”
 He was quick in his efforts to close everything up, so that he could hurry up and test it out.
 I was closer to the plug, so I plugged it in for him.
+Update "Kylian Ramos" (Month3/4) 2
 He didn't even bother with windup, immediately hitting one of the faulty keys.
+Update "Kylian Ramos" (Month3/8) 2
 Crackling.
+Leave "Kylian Ramos"
 Was it just me, or was it...worse than before?
 Before I could properly consider this, though, I jump in place upon a huge sound blasting from the organ.
+Update "Kylian Ramos" (Month3/9) 2
 My head darts to Kylian, who is pressing both hands to the keys in frustration, leaning against them.
 I think he exclaims something, but I can't hear him until he comes off the keys and plops down into the chair.
-"Kylian Ramos": “I was so sure this was it...!”
-"Kylian Ramos": “If not this, then...what...?!”
+Join "Kylian Ramos" 2
+"Kylian Ramos" (Month3/9): “I was so sure this was it...!”
+"Kylian Ramos" (Month3/10): “If not this, then...what...?!”
 "Asher Iona": “Ky, if you don't know, then I definitely don't.”
-"Kylian Ramos": “I know. I wasn't really asking…”
-"Kylian Ramos": “I'm just at a loss.”
+"Kylian Ramos" (Month3/2): “I know. I wasn't really asking…”
+"Kylian Ramos" (Month3/5): “I'm just at a loss.”
 "Asher Iona": “You could just have the church buy a new organ, you know.”
-"Kylian Ramos": “Organs are expensive. You can’t ‘just buy’ a new one.”
-"Kylian Ramos": “And, besides, it's...!”
-"Kylian Ramos": “It's...not the same…”
+"Kylian Ramos" (Month3/15): “Organs are expensive. You can’t ‘just buy’ a new one.”
+"Kylian Ramos" (Month3/9): “And, besides, it's...!”
+"Kylian Ramos" (Month3/11): “It's...not the same…”
 "Asher Iona": “Well, yeah, I get that.”
 "Asher Iona": “But maybe this one is just too far gone?”
-"Kylian Ramos": “It's NOT.”
+"Kylian Ramos" (Month3/15): “It's NOT.”
 The force in his voice once again startles me.
 This is also happening more and more; his emotional mood swings.
 But every time he raises his voice...
-"Kylian Ramos": “Oh no–"
+"Kylian Ramos" (Month3/13): “Oh no–"
+Leave "Kylian Ramos"
 He covers his mouth with both hands, and begins coughing.
 I rub his back as he works through the fit, and hold out his bottled water for him..
 I don't know if it actually helps the coughing when I rub his back, but Kylian seems to like it, at least.
@@ -55,37 +63,43 @@ As soon as he's able to take a breath, Kylian begins gulping down the water, whi
 I catch the color of blood on his hands.
 - Wipe the blood off his hand
 	Once he's put the water bottle down, I grab his hand.
-	"Kylian Ramos": “Huh–”
+	Join "Kylian Ramos" 2
+	"Kylian Ramos" (Month3/12): “Huh–”
 	I take the rag that we use for cleaning the dust off the organ, and start wiping off his hand.
-	"Kylian Ramos": “...Oh.”
+	"Kylian Ramos" (Month3/8): “...Oh.”
 	The blood seems to stain the lighter part of his hand, but it was good enough for now.
 	"Asher Iona": “Just run that under water, and it should be alright.”
 	Kylian smiles.
-	"Kylian Ramos": “Thanks.”
-	"Kylian Ramos": “I'll do that.”
+	"Kylian Ramos" (Month3/7): “Thanks.”
+	"Kylian Ramos" (Month3/6): “I'll do that.”
 	I stand up to go with him, but he puts a hand to my chest, pushing me back slightly.
-	"Kylian Ramos": “I'm okay.”
+	"Kylian Ramos" (Month3/7): “I'm okay.”
+	Leave "Kylian Ramos"
 	He hobbles to the church's bathroom on his own.
 	I hope he knows that it doesn't bother me to help him around.
 - Comfort him
 	VAR {good_choice} += 1
 	Once Kylian had moved the water bottle from one hand to another, I grabbed the hand closest to me, making him jump in place.
-	"Kylian Ramos": “Urk–!”
+	Join "Kylian Ramos" 2
+	"Kylian Ramos" (Month3/12): “Urk–!”
 	"Asher Iona": “Did I startle you?”
 	The hand on Kylian's bottle tightened a bit. It crunched in his grip.
-	"Kylian Ramos": “I mean, a little, but...!”
-	"Kylian Ramos": “It's just not something that I expect a boy to do, I guess.”
+	"Kylian Ramos" (Month3/12): “I mean, a little, but...!”
+	"Kylian Ramos" (Month3/1): “It's just not something that I expect a boy to do, I guess.”
 	"Asher Iona": “That's fine.”
-	"Asher Iona": ”I don't really care about that sort of stuff.“
-	"Kylian Ramos": “Well, okay, but…”
-	"Kylian Ramos": “But why...?”
+	"Asher Iona": “I don't really care about that sort of stuff.”
+	"Kylian Ramos" (Month3/8): “Well, okay, but…”
+	"Kylian Ramos" (Month3/5): “But why...?”
 	"Asher Iona": “You seemed upset. I thought it might help.”
 	"Asher Iona": “Was I wrong?”
-	"Kylian Ramos": “No. It's alright.”
+	"Kylian Ramos" (Month3/14): “No. It's alright.”
+	Update "Kylian Ramos" (Month3/2) 2
 	He paused for a second, looking away from me.
-	"Kylian Ramos": “Sorry for the blood on your hand.”
-	"Asher Iona": “Blood can be washed off with a couple of minutes and some hot water!“
-	"Asher Iona": ”Making sure you're not angry the rest of the day matters more.“
+	"Kylian Ramos" (Month3/11): “Sorry for the blood on your hand.”
+	"Asher Iona": “Blood can be washed off with a couple of minutes and some hot water!”
+	"Asher Iona": “Making sure you're not angry the rest of the day matters more.”
+	Update "Kylian Ramos" (Month3/8) 2
 	Kylian moved his eyes back to me and nodded, not saying anything else.
+	Leave "Kylian Ramos"
 	I listened to his shallow breathing in the silence.
 [jump timeline="timeline_4"]

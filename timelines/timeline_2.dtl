@@ -1,5 +1,4 @@
 [wait time="2.0"]
-(Time passes)
 As it turns out, Kylian was still going to be going to school in the months after his diagnosis.
 It seems important to him that he maintains a normal life to the end.
 Not that he seems to have accepted that his life is ending.
@@ -11,26 +10,30 @@ But that doesn't stop Kylian from coming in when they're not around, to work on 
 It seems to be his latest pet project. He loves keeping himself busy with these sorts of things.
 Just dusting it and polishing it, at first. But lately, more complicated things.
 He invites me to watch him sometimes.
-"Kylian Ramos": “Asher! You're–”
-"Kylian Ramos": “...”
-"Kylian Ramos": “Flowers?”
+Join "Kylian Ramos" 2
+"Kylian Ramos" (Month2/4): “Asher! You're–”
+"Kylian Ramos" (Month2/12): “...”
+"Kylian Ramos" (Month2/5): “Flowers?”
 I chuckle. I guess I should have told him ahead of time.
 "Asher Iona": ”I thought it would liven up the place a little? It's kind of…gray. Isn't it?”
 - “If you're going to keep spending time here...”
 	"Asher Iona": “I thought that it could at least have something nice.”
 	"Asher Iona": “Or, something nice that you're not toiling over.”
-	"Kylian Ramos": “Heheh! Okay, that's fair.”
-	"Kylian Ramos": “That's nice. Thanks. The church owners will love it.”
+	"Kylian Ramos" (Month2/4): “Heheh! Okay, that's fair.”
+	"Kylian Ramos" (Month2/6): “That's nice. Thanks. The church owners will love it.”
 - “They're even your favorite color!”
 	VAR {good_choice} += 1
 	Kylian seemed a bit embarrassed.
-	"Kylian Ramos": “I haven't remembered what anyone's favorite color is since I was 7.”
+	"Kylian Ramos" (Month2/1): “I haven't remembered what anyone's favorite color is since I was 7.”
 	"Asher Iona": “Well, I've known you since I was 7!”
-	"Kylian Ramos": “You're lucky that it hasn't changed, then.”
+	"Kylian Ramos" (Month2/4): “You're lucky that it hasn't changed, then.”
 	His words were teasing, but his tone and expression were soft.
-	"Kylian Ramos": “That's really nice. Thanks. I'll take good care of them.”
+	"Kylian Ramos" (Month2/14): “That's really nice. Thanks. I'll take good care of them.”
+[background arg="res://assets/Backgrounds/bg2.png" fade="0.0"]
+Update "Kylian Ramos" (Month2/7) 2
 Kylian talked as he worked on the organ, spraying the inside (“the guts,” as he kept calling it) of the organ, spraying with contact cleaner and turning the switches over and over.
-"Kylian Ramos": “...And if this works, we'll be able to play the keys that only work on certain settings right now! I'll be able to play a lot more variety of songs, once I'm better!”
+"Kylian Ramos" (Month2/4): “...And if this works, we'll be able to play the keys that only work on certain settings right now! I'll be able to play a lot more variety of songs, once I'm better!”
+Leave "Kylian Ramos"
 I don't say anything.
 I never do.
 It doesn't seem like my place.
@@ -39,21 +42,26 @@ That 'faith healing' is usually just something that televangelists pushed to get
 And it's not like he would even believe me if I told him that he was being sold false hope, anyhow.
 Kylian closes the organ, and goes to plug the organ back in before returning.
 He hovers a finger over a bad key, marked with a piece of tape.
-"Kylian Ramos": “Okay. Aaand…”
+Join "Kylian Ramos" 2
+"Kylian Ramos" (Month2/6): “Okay. Aaand…”
+Update "Kylian Ramos" (Month2/8) 2
 ...A soft crackling sound comes.
 The usual.
+Update "Kylian Ramos" (Month2/9) 2
 Kylian blinks, then suddenly and roughly cleans his hands off on his pants, like he's getting his frustration out that way.
-"Kylian Ramos": “I guess that wasn't it.”
+"Kylian Ramos" (Month2/2): “I guess that wasn't it.”
 "Asher Iona": “Guess not.”
 "Asher Iona": “But hey! You've probably helped prevent a future problem?”
-"Kylian Ramos": “Yeah.”
+"Kylian Ramos" (Month2/1): “Yeah.”
 He's chewing his bottom lip. I can tell he's not satisfied with this outcome.
 "Asher Iona": “...If you want to see the organ fixed, you could call a professional in to–”
-"Kylian Ramos": “No.”
+"Kylian Ramos" (Month2/15): “No.”
 His voice is firm. Different from his usual, softer tone.
+Update "Kylian Ramos" (Month2/13) 2
 He immediately corrects himself.
-"Kylian Ramos": ”I'm sorry, I didn't mean to interrupt, I just..."
-"Kylian Ramos": “I want to repair it myself.”
+"Kylian Ramos" (Month2/13): ”I'm sorry, I didn't mean to interrupt, I just..."
+"Kylian Ramos" (Month2/1): “I want to repair it myself.”
+Leave "Kylian Ramos"
 I nod. I can understand that.
 I just hope that he isn't too disappointed if he's unable to manage it.
 [jump timeline="timeline_3"]

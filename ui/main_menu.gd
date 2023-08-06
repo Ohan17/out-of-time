@@ -2,8 +2,7 @@ extends Control
 
 
 func _ready() -> void:
-	$MarginContainer.hide()
-	$AnimationPlayer.animation_finished.connect(func(_anim_name): $MarginContainer.show())
+	AudioManager.play_track(3)
 
 
 func _on_start_button_pressed() -> void:
