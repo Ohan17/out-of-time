@@ -31,8 +31,8 @@ Kylian Ramos is one of the most strong and passionate people that I know.
 [call_node path="Game" method="hide_all" single_use="true"]
 [wait time="1.0" hide_text="false"]
 I stand by that, even while I watch him grit his teeth to hold back tears in the empty pews of our town's church.
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month1/9): ”I can't–I still can't believe it.“
+Join "Kylian Ramos" (Month1/9) 2
+"Kylian Ramos": ”I can't–I still can't believe it.“
 "Kylian Ramos" (Month1/9): ”One Christmas happens in a year. One Valentine's Day. One Carnaval...“
 "Kylian Ramos" (Month1/9): ”But, next year...“
 "Kylian Ramos" (Month1/10): ”I may not be here anymore.“
@@ -42,8 +42,8 @@ I sat with my knees pulled up to my chest like a child. I couldn't feel the tips
 I keep taking a breath to speak, then letting it out, without saying anything.
 I feel the need to comfort Kylian, more than anything, but where do I even start?
 He seems to be filling the dead air just fine on his own, though.
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month1/2): "And my parents–they're just-”
+Join "Kylian Ramos" (Month1/2) 2
+"Kylian Ramos": "And my parents–they're just-”
 "Kylian Ramos" (Month1/2): “They change the subject whenever I try to talk about any of the–of the things that the doctor suggested.”
 "Kylian Ramos" (Month1/1): “Of course, I believe in God’s ability to heal those who deserve it. I know that He will help me, with time.”
 "Kylian Ramos" (Month1/11): “But...some pain relief medication would be nice...at least...”

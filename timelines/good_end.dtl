@@ -1,7 +1,7 @@
 [call_node path="Game" method="play_good_end_track" single_use="true"]
 "Asher Iona": “We need to get you home. The–”
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month4/9): “NO!”
+Join "Kylian Ramos" (Month4/9) 2
+"Kylian Ramos": “NO!”
 The outburst led to a coughing fit.
 Kylian doesn't seem to care about these as much anymore. I rub his back anyway.
 "Kylian Ramos" (Month4/9): “You don't understand! It's my last project!!”
@@ -12,8 +12,8 @@ His breathing is coming in more shallow breaths, but it's not controlled anymore
 His eyes are shining with tears, but it doesn't seem to be from physical pain for once.
 I haven't seen him like this since before his diagnosis.
 He always seemed so completely sure that it was going to be okay in the end. But...
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month4/22-trueend): “It's not something to be thrown away for scraps! It's served the people who use it well, so why–...Why–...?”
+Join "Kylian Ramos" (Month4/22-trueend) 2
+"Kylian Ramos": “It's not something to be thrown away for scraps! It's served the people who use it well, so why–...Why–...?”
 Before I could stop him, Kylian fell back onto the organ's seat, covering his face with both trembling hands.
 "Kylian Ramos" (Month4/23-trueend): “Why is it breaking down...?”
 Leave "Kylian Ramos"
@@ -22,8 +22,8 @@ My jaw tightens in the effort it takes to not start to cry, even before he does.
 My own breaths are shaky and small, and I try to swallow down a sob before sitting down next to Kylian.
 I grip the edge of the chair. I plan to speak once I'm sure I'll be able to have a steady voice, but Kylian beats me to it.
 He lowers his hands just a bit. The tears hang onto his eyelashes, weighing them down, but not falling.
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month4/5): “I don't know...“
+Join "Kylian Ramos" (Month4/5) 2
+"Kylian Ramos": “I don't know...“
 "Kylian Ramos" (Month4/2): ”What I'm being punished for.“
 I don't even bother to steady my voice.
 "Asher Iona": “Punished??”
@@ -81,8 +81,8 @@ The knot in my chest loosens, then dissipates, as a watery smile crosses Kylian'
 "Kylian Ramos" (Month4/27-trueend): ”Then I'm happy...“
 Leave "Kylian Ramos" [animation="Fade Out Down" length="2"]
 [wait time="2.0"]
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month4/5): “I haven't actually properly played the organ since I started working on it, you know.”
+Join "Kylian Ramos" (Month4/5) 2
+"Kylian Ramos": “I haven't actually properly played the organ since I started working on it, you know.”
 He's running his hands across the keyboard cover as he says this, and I quickly turn my head to look at him incredulously.
 "Asher Iona": “But...you love playing it!”
 "Asher Iona": “What were you working on it for, if you weren't even playing it??”
@@ -119,3 +119,7 @@ But the way that he plays demands your attention and respect.
 It demands to be seen.
 It demands.
 The final note plays.
+[call_node path="Game" method="good_ending" single_use="true"]
+[wait time="3.0"]
+[wait_input]
+[call_node path="Game" method="to_main_menu" single_use="true"]

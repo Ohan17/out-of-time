@@ -8,8 +8,8 @@ I suspect that it's mostly because, if he stops going to school, he'll likely st
 And he is as dedicated to restoring that organ as anything.
 Even more so than that time he spent a solid half a year dedicated to learning all about dolphins.
 I voiced as much when I was helping him try his next angle with fixing the organ's sound.
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month3/3): “Oh, gosh, don't remind me of my dolphin phase...”
+Join "Kylian Ramos" (Month3/3) 2
+"Kylian Ramos": “Oh, gosh, don't remind me of my dolphin phase...”
 "Asher Iona": “It was cool!”
 "Kylian Ramos" (Month3/15): “I know that.”
 "Kylian Ramos" (Month3/3): “I meant, 'Don't get me started on dolphin facts again, I'll get distracted.'”
@@ -24,8 +24,8 @@ I like watching him get passionate about things.
 What he was doing currently was too out of my range to understand. Even the things involved sounded complicated.
 Kylian had to get into the organ's circuit board for this part of the process.
 While he technically only needed to repair a small handful of keys, he was set on replacing all of them, while he was at it.
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month3/4): “Okay...that should be it!”
+Join "Kylian Ramos" (Month3/4) 2
+"Kylian Ramos": “Okay...that should be it!”
 He was quick in his efforts to close everything up, so that he could hurry up and test it out.
 I was closer to the plug, so I plugged it in for him.
 Update "Kylian Ramos" (Month3/4) 2
@@ -38,8 +38,8 @@ Before I could properly consider this, though, I jump in place upon a huge sound
 Update "Kylian Ramos" (Month3/9) 2
 My head darts to Kylian, who is pressing both hands to the keys in frustration, leaning against them.
 I think he exclaims something, but I can't hear him until he comes off the keys and plops down into the chair.
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month3/9): “I was so sure this was it...!”
+Join "Kylian Ramos" (Month3/9) 2
+"Kylian Ramos": “I was so sure this was it...!”
 "Kylian Ramos" (Month3/10): “If not this, then...what...?!”
 "Asher Iona": “Ky, if you don't know, then I definitely don't.”
 "Kylian Ramos" (Month3/2): “I know. I wasn't really asking…”
@@ -63,8 +63,8 @@ As soon as he's able to take a breath, Kylian begins gulping down the water, whi
 I catch the color of blood on his hands.
 - Wipe the blood off his hand
 	Once he's put the water bottle down, I grab his hand.
-	Join "Kylian Ramos" 2
-	"Kylian Ramos" (Month3/12): “Huh–”
+	Join "Kylian Ramos" (Month3/12) 2
+	"Kylian Ramos": “Huh–”
 	I take the rag that we use for cleaning the dust off the organ, and start wiping off his hand.
 	"Kylian Ramos" (Month3/8): “...Oh.”
 	The blood seems to stain the lighter part of his hand, but it was good enough for now.
@@ -80,8 +80,8 @@ I catch the color of blood on his hands.
 - Comfort him
 	VAR {good_choice} += 1
 	Once Kylian had moved the water bottle from one hand to another, I grabbed the hand closest to me, making him jump in place.
-	Join "Kylian Ramos" 2
-	"Kylian Ramos" (Month3/12): “Urk–!”
+	Join "Kylian Ramos" (Month3/12) 2
+	"Kylian Ramos": “Urk–!”
 	"Asher Iona": “Did I startle you?”
 	The hand on Kylian's bottle tightened a bit. It crunched in his grip.
 	"Kylian Ramos" (Month3/12): “I mean, a little, but...!”

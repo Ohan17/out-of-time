@@ -1,6 +1,6 @@
 "Asher Iona": “We're bringing you back home. Okay?”
-Join "Kylian Ramos" 2
-"Kylian Ramos" (Month4/18-badend): “But–but I just need–"
+Join "Kylian Ramos" (Month4/18-badend) 2
+"Kylian Ramos": “But–but I just need–"
 He tries to turn around by force, and stop his feet.
 I feel awful for it, but I keep guiding him forward by force, even if it makes my fingers shake.
 His voice is wavering, cracking. His breathing is becoming more and more shallow as he's taken away.
@@ -9,3 +9,7 @@ His voice is wavering, cracking. His breathing is becoming more and more shallow
 Leave "Kylian Ramos"
 We keep walking.
 Struggling against me, Kieran reaches out to the organ from the other side of the church.
+[call_node path="Game" method="bad_ending" single_use="true"]
+[wait time="3.0"]
+[wait_input]
+[call_node path="Game" method="to_main_menu" single_use="true"]
